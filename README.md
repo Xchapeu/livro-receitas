@@ -1,7 +1,7 @@
 # Livro de Receitas
 
-Olá, bem vindo ao meu livro de receitas :wave
+Olá, bem vindo ao meu livro de receitas ::wave 
 
- - Strogonoff de frango
+ - _Strogonoff_ de frango
 
  - 
