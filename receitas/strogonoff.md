@@ -1,4 +1,4 @@
-# _Strogonoff_ de Frango
+# _Strogonoff_ de Frango :chicken:
 
 ### **Ingredientes**
 
