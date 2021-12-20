@@ -1,6 +1,6 @@
 # Strogonoff de Frango
 
-### ** Ingredientes **
+### **Ingredientes**
 
  - 1 kilo de peito de frango sem pele
 
